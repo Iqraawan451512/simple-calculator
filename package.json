@@ -1,0 +1,19 @@
+{
+  "name": "one-simple-calculator",
+  "version": "1.0.1",
+  "description": "a simple calculator with typescript with node j.s and inqurier",
+  "main": "index.js",
+  "type": "module",
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iqra awan",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
